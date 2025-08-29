@@ -10,12 +10,6 @@
 
 ###
 
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
 <h2 align="left">💻 Tech Stack:</h2>
 
 ###
@@ -55,6 +49,3 @@
 </div>
 
 ###
-
-## 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamina-Msallem&layout=compact&theme=radical)
