@@ -2,19 +2,21 @@
 
 ###
 
-<p align="left">My name is Yamina Msallem and I'm a web developer</p>
+<h2 align="left">🤭 About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">👋 My name is Yamina Msallem and I'm a web developer<br>🐛 Creating bugs since **2021**  <br>📚 I'm currently learning **AI**  <br>🎲 Fun fact: **I debug with coffee more than with console.log() 😅**</p>
 
 ###
 
-<p align="left">🐛 Creating bugs since **2021**  <br>- 📚 I'm currently learning **Next.js & advanced frontend architectures**  <br>- 🎯 Goals: **Become a strong frontend developer & contribute to open-source**  <br>- 🎲 Fun fact: **I debug with coffee more than with console.log() 😅**</p>
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
@@ -53,3 +55,6 @@
 </div>
 
 ###
+
+## 📈 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yamina-Msallem&layout=compact&theme=radical)
